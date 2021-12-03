@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </a>
 
 <h3>-Utilitários:</h3>
-<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="32" style="max-width: 100%;">
 
+<a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="32" style="max-width: 100%;"></a>
