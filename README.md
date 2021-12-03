@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 <h2>Oi, seja bem vindo!</h2>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=DouglasTomazini&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DouglasTomazini&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+
+
 <h3>-Contato:</h3>
 <a href="https://www.linkedin.com/in/douglas-tomazini-2a1655b2" alt="linkedin" target="_blank">
 
