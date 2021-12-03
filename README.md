@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <h3>-Servidores web:</h3>
 
-<a href="https://www.apache.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="32" style="max-width: 100%;"></a>   <a href="https://nginx.org/en/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" alt="nginx" width="32" style="max-width: 100%;"></a>
+<a href="https://www.apache.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="32" style="max-width: 100%;"></a>                      <a href="https://nginx.org/en/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" alt="nginx" width="32" style="max-width: 100%;"></a>
