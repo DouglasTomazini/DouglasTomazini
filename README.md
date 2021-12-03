@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Oi, seja bem vindo!</h2>
+
+<h3>-Redes sociais:</h3>
 <a href="https://www.linkedin.com/in/douglas-tomazini-2a1655b2" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:<douglastomazini@gmail.com>" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
+
