@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Oi, seja bem vindo!</h2>
 
-<h3>-Redes sociais:</h3>
+<h3>-Contato:</h3>
 <a href="https://www.linkedin.com/in/douglas-tomazini-2a1655b2" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
+
+<h3>-Utilitários:</h3>
+<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="32" style="max-width: 100%;">
 
