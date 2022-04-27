@@ -1,40 +1,22 @@
-### Hi there 👋
+Oi 👋 Meu nome é Douglas Tomazini
+=================================
 
-<!--
-**DouglasTomazini/DouglasTomazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da computação | Shell scripting
+----------------------------------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>Oi, seja bem vindo!</h2>
+* 🌍  Eu estou em Porto Alegre / RS
+* ✉️  Se quiser me contatar: [douglastomazini@gmail.com](mailto:douglastomazini@gmail.com)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DouglasTomazini&show_icons=true&theme=tokyonight"/>
+### Socials
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DouglasTomazini&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<p align="left"> <a href="https://www.github.com/douglastomazini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dougtomazini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/douglas-tomazini-2a1655b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/douglastomazini"><img src="https://github-readme-stats.vercel.app/api?username=douglastomazini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="douglastomazini's GitHub stats" /></a>
 
-<h3>-Contato:</h3>
-<a href="https://www.linkedin.com/in/douglas-tomazini-2a1655b2" alt="linkedin" target="_blank">
+<a href="http://www.github.com/douglastomazini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=douglastomazini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-
-<h3>-Utilitários:</h3>
-
-<a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="32" style="max-width: 100%;" alt="shell"></a>
-
-<h3>-Servidores web:</h3>
-
-<a href="https://www.apache.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="32" style="max-width: 100%;" alt="Apache"></a>  &nbsp;    <a href="https://nginx.org/en/" rel="nofollow" alt=" nginx" ><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" alt="nginx" width="32" style="max-width: 100%;"></a>
+<a href="http://www.github.com/douglastomazini"><img src="https://activity-graph.herokuapp.com/graph?username=douglastomazini&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
