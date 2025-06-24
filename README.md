@@ -1,7 +1,7 @@
 Oi 👋 Meu nome é Douglas Tomazini
 =================================
 
-Estudante de Ciência da computação | Shell scripting
+Formado em Analise e Desenvolvimento de Sistemas | Shell scripting
 ----------------------------------------------------
 
 * 🌍  Eu estou em Porto Alegre / RS
